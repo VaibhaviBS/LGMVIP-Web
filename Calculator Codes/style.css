@@ -9,7 +9,7 @@
 
 .container{
     text-align: center;
-    background:rgb(177, 199, 233);
+    background:rgb(227, 183, 246);
     max-width: 400px;
     /* width: 100%; */
     margin: 120px auto;
@@ -35,7 +35,7 @@ button{
     font-size: 34px;
     width: 45px;
     height: 45px;
-    background-color: rgb(129, 126, 225);
+    background-color: rgb(173, 72, 244);
     color: aliceblue;
     border-radius: 12px;
     font-size: 25px;

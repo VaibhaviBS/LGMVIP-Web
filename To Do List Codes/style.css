@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap'); */
+@import url(https://fonts.google.com/specimen/Baloo+Bhai+2?query=bal);
 *{
   margin: 0;
   padding: 0;
@@ -9,7 +10,7 @@ body{
   width: 100%;
   height: 100vh;
   padding: 10px;
-  background-color: #2ceee4;
+  background-color: #b1f9ff;
 }
 .container{
   background: #699ef9;;
@@ -17,7 +18,7 @@ body{
   width: 100%;
   margin: 28px auto;
   padding: 25px;
-  border: 4px solid blue;
+  border: 4px solid rgb(63, 125, 225);
  } 
 .container .select{
   margin: 20px 0;
@@ -88,7 +89,7 @@ body{
   font-weight: 387px;
   font-size: 16px;
   margin-left: 5px;
-  background: #f10911;
+  background: #f81010;
   cursor: pointer;
 }
 .container .footer{
